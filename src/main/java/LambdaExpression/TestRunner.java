@@ -1,12 +1,14 @@
 package LambdaExpression;
 
+import AnonymousInnerClass.IPrintable;
+
 public class TestRunner {
 
 	public static void main(String[] args) {
 
 		// Conventional way
-		IPrintable obj = new LogFileImp();
-		obj.print();
+		//IPrintable obj = new LogFileImp();
+		//obj.print();
 
 		
 		

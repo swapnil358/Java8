@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonAssignment.UsingNormalProgram">
+      <class name="SeleniumPractice.ScrollAction">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="usingNormalApproach"/>
+          <include name="teaDown"/>
+          <include name="openNewTab"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- AmazonAssignment.UsingNormalProgram -->
+      </class> <!-- SeleniumPractice.ScrollAction -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

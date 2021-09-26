@@ -62,6 +62,15 @@ public class UsingNormalProgramVsStream {
 		}
 	}
 	 
+	/*Open Amazon.in
+	Fetch all the links in the amazon.in home page.
+	Fetch the text from the links and remove the empty links
+	Remove the duplicates.
+	Sort the text in the alphabetical order.
+	Print only the text starting with character “C” and “D”
+
+	*/
+	
 	
 	@Test
 	public void usingStream() {

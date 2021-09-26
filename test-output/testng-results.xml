@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-21T20:04:47 IST" name="Default suite" finished-at="2021-05-21T20:05:02 IST" duration-ms="14435">
+  <suite started-at="2021-08-05T15:40:10 IST" name="Default suite" finished-at="2021-08-05T15:40:32 IST" duration-ms="22372">
     <groups>
     </groups>
-    <test started-at="2021-05-21T20:04:47 IST" name="Default test" finished-at="2021-05-21T20:05:02 IST" duration-ms="14435">
-      <class name="AmazonAssignment.UsingNormalProgram">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonAssignment.UsingNormalProgram@73ee04c8]" started-at="2021-05-21T20:04:47 IST" name="setUp" finished-at="2021-05-21T20:04:54 IST" duration-ms="7175" status="PASS">
+    <test started-at="2021-08-05T15:40:10 IST" name="Default test" finished-at="2021-08-05T15:40:32 IST" duration-ms="22372">
+      <class name="SeleniumPractice.ScrollAction">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumPractice.ScrollAction@a3d8174]" started-at="2021-08-05T15:40:10 IST" name="setup" finished-at="2021-08-05T15:40:23 IST" duration-ms="13061" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="usingStream()[pri:0, instance:AmazonAssignment.UsingNormalProgram@73ee04c8]" started-at="2021-05-21T20:04:54 IST" name="usingStream" finished-at="2021-05-21T20:05:01 IST" duration-ms="6232" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="openNewTab()[pri:0, instance:SeleniumPractice.ScrollAction@a3d8174]" started-at="2021-08-05T15:40:23 IST" name="openNewTab" finished-at="2021-08-05T15:40:32 IST" duration-ms="9234" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- usingStream -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonAssignment.UsingNormalProgram@73ee04c8]" started-at="2021-05-21T20:05:01 IST" name="tearDown" finished-at="2021-05-21T20:05:02 IST" duration-ms="962" status="PASS">
+        </test-method> <!-- openNewTab -->
+        <test-method is-config="true" signature="teaDown()[pri:0, instance:SeleniumPractice.ScrollAction@a3d8174]" started-at="2021-08-05T15:40:32 IST" name="teaDown" finished-at="2021-08-05T15:40:32 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- AmazonAssignment.UsingNormalProgram -->
+        </test-method> <!-- teaDown -->
+      </class> <!-- SeleniumPractice.ScrollAction -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
